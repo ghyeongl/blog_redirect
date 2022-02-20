@@ -1,0 +1,8 @@
+locale                   : "en-US"
+title                    : "Redirecting..."
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : "https://ghyeongl.github.io"
+baseurl                  : "blog_redirect"
