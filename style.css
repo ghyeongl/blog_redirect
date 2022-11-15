@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Pretendard', sans-serif;
+    font-size: 15px;
+    color: #fff;
+    background: #141414;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0px 0px 10px 0px;
+}
+
+.title_banner {
+    margin: 120px 24px 20px 24px;
+    padding: 15px 100px 15px;
+    color: #000;
+    background: #fff;
+    border-radius: 20px;
+}
+
+.article_card {
+    margin: 20px 24px;
+    padding: 16px 20px;
+    color: #000;
+    background: #fff;
+    border-radius: 20px;
+}
+
+.space {
+    margin: auto;
+    max-width: 450px;
+}
+
+.normal_text {
+    font-size: 15px;
+    font-weight: 400;
+    color: #000;
+}
+
+.default_margin {
+    margin: 0px 24px;
+}
